@@ -1,8 +1,8 @@
 
 <!-- Лого (позже можно заменить на фирменное) ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KOLBA-IT/.github/main/assets/logo.png" width="120" alt="KOLBA IT Logo"/>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/fb9ba79f-a12a-4972-9a96-aa64ad36a3ff" width="500" height="500" alt="KOLBA IT Logo"/>
 </p>
 
 <h1 align="center">KOLBA IT</h1>
