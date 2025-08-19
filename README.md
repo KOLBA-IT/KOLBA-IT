@@ -5,7 +5,7 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/fb9ba79f-a12a-4972-9a96-aa64ad36a3ff" width="500" height="500" alt="KOLBA IT Logo"/>
 </p>
 
-<h1 align="center">KOLBA IT</h1>
+<!-- <h1 align="center">KOLBA IT</h1> -->
 
 <p align="center">
   Разрабатываем современные <b>web-системы, чат-боты, AI-решения и инструменты автоматизации</b>.  
