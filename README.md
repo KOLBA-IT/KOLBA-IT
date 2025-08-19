@@ -2,8 +2,11 @@
 <!-- Лого (позже можно заменить на фирменное) ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 -->
 
-<p align="center"><img src="https://github.com/user-attachments/assets/fb9ba79f-a12a-4972-9a96-aa64ad36a3ff" width="500" height="500" alt="KOLBA IT Logo"/>
+<p align="center"><<img width="750" height="1024" alt="image" src="https://github.com/user-attachments/assets/a64f6c19-9111-496b-94b9-4a2702f0a8c7" 
 </p>
+
+
+
 
 <!-- <h1 align="center">KOLBA IT</h1> -->
 
@@ -21,7 +24,6 @@
 
 ---
 
-## 🔥 Introduction
 
 **KOLBA IT** — технологическая студия, специализирующаяся на:  
 - **Веб-разработке** (React, FastAPI, SQLModel, Tauri).  
@@ -48,7 +50,7 @@
 
 ---
 
-## 🚀 Showcase Projects
+## 🚀 Наши проекты
 
 ### 📊 [Audit Web App](https://github.com/KOLBA-IT/audit-web-app)
 Веб-платформа для аудита качества и управления процессами.  
