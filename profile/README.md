@@ -59,8 +59,6 @@ Telegram-боты для консультаций, сервисных задач
   <img src="https://skillicons.dev/icons?i=react,ts,py,fastapi,postgresql,tauri,docker,linux,github,git,pytorch,go,java&perline=9" />
 </p>
 
-## ⚙️ Технологии
-
 -   **Frontend / Desktop**: React, TypeScript/JavaScript, Tauri
 -   **Backend / DB**: Python (FastAPI, SQLModel), PostgreSQL
 -   **AI / ML**: GigaChat API, FAISS, CatBoost, pandas, scikit-learn
