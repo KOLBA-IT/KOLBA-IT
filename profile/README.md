@@ -7,12 +7,12 @@
 Мы — технологическая студия разработки.  
 Создаём современные **веб-приложения, чат-ботов и парсеры**, а также усиливаем решения с помощью **AI-модулей**.
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://kolba-it.ru"><img src="https://img.shields.io/badge/website-kolba--it.ru-blue?style=flat-square&logo=vercel" /></a>
   <a href="https://github.com/KOLBA-IT"><img src="https://img.shields.io/badge/status-active-success?style=flat-square&logo=github" /></a>
   <a href="#"><img src="https://img.shields.io/badge/license-Apache%202.0-blue?style=flat-square" /></a>
   <a href="#"><img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-black?style=flat-square&logo=githubactions" /></a>
-</p>
+</p> -->
 
 ---
 
@@ -55,9 +55,9 @@ Telegram-боты для консультаций, сервисных задач
 
 ## ⚙️ Технологический стек
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://skillicons.dev/icons?i=react,ts,py,fastapi,postgresql,tauri,docker,linux,github,git,pytorch,go,java&perline=9" />
-</p>
+</p> -->
 
 -   **Frontend / Desktop**: React, TypeScript/JavaScript, Tauri
 -   **Backend / DB**: Python (FastAPI, SQLModel), PostgreSQL
